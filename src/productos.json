@@ -1,0 +1,48 @@
+[
+  {
+    "title": "GatiBaño",
+    "description": "Cucha con arenero",
+    "price": 15000,
+    "thumbnail": "foto.jpg",
+    "code": "234",
+    "stock": 11,
+    "id": 1
+  },
+  {
+    "title": "GatiCucha",
+    "description": "Cucha para 2 gatos",
+    "price": 13000,
+    "thumbnail": "foto2.jpg",
+    "code": "244",
+    "stock": 12,
+    "id": 2
+  },
+  {
+    "title": "GatiLoft",
+    "description": "Cucha para 4 gatos",
+    "price": 25000,
+    "thumbnail": "foto3.jpg",
+    "code": "254",
+    "stock": 19,
+    "id": 3
+  },
+  {
+    "title": "GatiSwift",
+    "description": "Cucha con trepador",
+    "price": 35000,
+    "thumbnail": "foto4.jpg",
+    "code": "264",
+    "stock": 18,
+    "id": 4
+  },
+  {
+    "id": "loxep6l3i5ngf",
+    "status": true,
+    "thumbnails": [],
+    "title": "Nombre del Producto",
+    "description": "Descripción del producto",
+    "code": "P001",
+    "price": 19.99,
+    "stock": 50
+  }
+]
